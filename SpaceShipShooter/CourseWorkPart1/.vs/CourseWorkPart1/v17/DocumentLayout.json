@@ -1,0 +1,229 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\15107\\CSGameArchitectures\\SpaceShipShooter\\CourseWorkPart1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7EF61139-3FE6-4C87-9C49-35BEA9020A3C}|CourseWorkPart1\\CourseWorkPart1.csproj|c:\\users\\15107\\csgamearchitectures\\spaceshipshooter\\courseworkpart1\\courseworkpart1\\spaceshipgame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7EF61139-3FE6-4C87-9C49-35BEA9020A3C}|CourseWorkPart1\\CourseWorkPart1.csproj|solutionrelative:courseworkpart1\\spaceshipgame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EF61139-3FE6-4C87-9C49-35BEA9020A3C}|CourseWorkPart1\\CourseWorkPart1.csproj|c:\\users\\15107\\csgamearchitectures\\spaceshipshooter\\courseworkpart1\\courseworkpart1\\inputlistener.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7EF61139-3FE6-4C87-9C49-35BEA9020A3C}|CourseWorkPart1\\CourseWorkPart1.csproj|solutionrelative:courseworkpart1\\inputlistener.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EF61139-3FE6-4C87-9C49-35BEA9020A3C}|CourseWorkPart1\\CourseWorkPart1.csproj|c:\\users\\15107\\csgamearchitectures\\spaceshipshooter\\courseworkpart1\\courseworkpart1\\collectible.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7EF61139-3FE6-4C87-9C49-35BEA9020A3C}|CourseWorkPart1\\CourseWorkPart1.csproj|solutionrelative:courseworkpart1\\collectible.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EF61139-3FE6-4C87-9C49-35BEA9020A3C}|CourseWorkPart1\\CourseWorkPart1.csproj|c:\\users\\15107\\csgamearchitectures\\spaceshipshooter\\courseworkpart1\\courseworkpart1\\enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7EF61139-3FE6-4C87-9C49-35BEA9020A3C}|CourseWorkPart1\\CourseWorkPart1.csproj|solutionrelative:courseworkpart1\\enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EF61139-3FE6-4C87-9C49-35BEA9020A3C}|CourseWorkPart1\\CourseWorkPart1.csproj|c:\\users\\15107\\csgamearchitectures\\spaceshipshooter\\courseworkpart1\\courseworkpart1\\scoremanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7EF61139-3FE6-4C87-9C49-35BEA9020A3C}|CourseWorkPart1\\CourseWorkPart1.csproj|solutionrelative:courseworkpart1\\scoremanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EF61139-3FE6-4C87-9C49-35BEA9020A3C}|CourseWorkPart1\\CourseWorkPart1.csproj|c:\\users\\15107\\csgamearchitectures\\spaceshipshooter\\courseworkpart1\\courseworkpart1\\commandmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7EF61139-3FE6-4C87-9C49-35BEA9020A3C}|CourseWorkPart1\\CourseWorkPart1.csproj|solutionrelative:courseworkpart1\\commandmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EF61139-3FE6-4C87-9C49-35BEA9020A3C}|CourseWorkPart1\\CourseWorkPart1.csproj|c:\\users\\15107\\csgamearchitectures\\spaceshipshooter\\courseworkpart1\\courseworkpart1\\lasershooter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7EF61139-3FE6-4C87-9C49-35BEA9020A3C}|CourseWorkPart1\\CourseWorkPart1.csproj|solutionrelative:courseworkpart1\\lasershooter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EF61139-3FE6-4C87-9C49-35BEA9020A3C}|CourseWorkPart1\\CourseWorkPart1.csproj|c:\\users\\15107\\csgamearchitectures\\spaceshipshooter\\courseworkpart1\\courseworkpart1\\animation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7EF61139-3FE6-4C87-9C49-35BEA9020A3C}|CourseWorkPart1\\CourseWorkPart1.csproj|solutionrelative:courseworkpart1\\animation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EF61139-3FE6-4C87-9C49-35BEA9020A3C}|CourseWorkPart1\\CourseWorkPart1.csproj|c:\\users\\15107\\csgamearchitectures\\spaceshipshooter\\courseworkpart1\\courseworkpart1\\background.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7EF61139-3FE6-4C87-9C49-35BEA9020A3C}|CourseWorkPart1\\CourseWorkPart1.csproj|solutionrelative:courseworkpart1\\background.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EF61139-3FE6-4C87-9C49-35BEA9020A3C}|CourseWorkPart1\\CourseWorkPart1.csproj|c:\\users\\15107\\csgamearchitectures\\spaceshipshooter\\courseworkpart1\\courseworkpart1\\pbackground.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7EF61139-3FE6-4C87-9C49-35BEA9020A3C}|CourseWorkPart1\\CourseWorkPart1.csproj|solutionrelative:courseworkpart1\\pbackground.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EF61139-3FE6-4C87-9C49-35BEA9020A3C}|CourseWorkPart1\\CourseWorkPart1.csproj|c:\\users\\15107\\csgamearchitectures\\spaceshipshooter\\courseworkpart1\\courseworkpart1\\keyboardeventargs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7EF61139-3FE6-4C87-9C49-35BEA9020A3C}|CourseWorkPart1\\CourseWorkPart1.csproj|solutionrelative:courseworkpart1\\keyboardeventargs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EF61139-3FE6-4C87-9C49-35BEA9020A3C}|CourseWorkPart1\\CourseWorkPart1.csproj|c:\\users\\15107\\csgamearchitectures\\spaceshipshooter\\courseworkpart1\\courseworkpart1\\buttonstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7EF61139-3FE6-4C87-9C49-35BEA9020A3C}|CourseWorkPart1\\CourseWorkPart1.csproj|solutionrelative:courseworkpart1\\buttonstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EF61139-3FE6-4C87-9C49-35BEA9020A3C}|CourseWorkPart1\\CourseWorkPart1.csproj|c:\\users\\15107\\csgamearchitectures\\spaceshipshooter\\courseworkpart1\\courseworkpart1\\explosions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7EF61139-3FE6-4C87-9C49-35BEA9020A3C}|CourseWorkPart1\\CourseWorkPart1.csproj|solutionrelative:courseworkpart1\\explosions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SpaceShipGame.cs",
+              "DocumentMoniker": "C:\\Users\\15107\\CSGameArchitectures\\SpaceShipShooter\\CourseWorkPart1\\CourseWorkPart1\\SpaceShipGame.cs",
+              "RelativeDocumentMoniker": "CourseWorkPart1\\SpaceShipGame.cs",
+              "ToolTip": "C:\\Users\\15107\\CSGameArchitectures\\SpaceShipShooter\\CourseWorkPart1\\CourseWorkPart1\\SpaceShipGame.cs",
+              "RelativeToolTip": "CourseWorkPart1\\SpaceShipGame.cs",
+              "ViewState": "AgIAANYCAAAAAAAAAAAkwN0CAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T17:57:42.462Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Collectible.cs",
+              "DocumentMoniker": "C:\\Users\\15107\\CSGameArchitectures\\SpaceShipShooter\\CourseWorkPart1\\CourseWorkPart1\\Collectible.cs",
+              "RelativeDocumentMoniker": "CourseWorkPart1\\Collectible.cs",
+              "ToolTip": "C:\\Users\\15107\\CSGameArchitectures\\SpaceShipShooter\\CourseWorkPart1\\CourseWorkPart1\\Collectible.cs",
+              "RelativeToolTip": "CourseWorkPart1\\Collectible.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAgwD0AAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T21:18:27.963Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ScoreManager.cs",
+              "DocumentMoniker": "C:\\Users\\15107\\CSGameArchitectures\\SpaceShipShooter\\CourseWorkPart1\\CourseWorkPart1\\ScoreManager.cs",
+              "RelativeDocumentMoniker": "CourseWorkPart1\\ScoreManager.cs",
+              "ToolTip": "C:\\Users\\15107\\CSGameArchitectures\\SpaceShipShooter\\CourseWorkPart1\\CourseWorkPart1\\ScoreManager.cs",
+              "RelativeToolTip": "CourseWorkPart1\\ScoreManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T05:26:49.942Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Explosions.cs",
+              "DocumentMoniker": "C:\\Users\\15107\\CSGameArchitectures\\SpaceShipShooter\\CourseWorkPart1\\CourseWorkPart1\\Explosions.cs",
+              "RelativeDocumentMoniker": "CourseWorkPart1\\Explosions.cs",
+              "ToolTip": "C:\\Users\\15107\\CSGameArchitectures\\SpaceShipShooter\\CourseWorkPart1\\CourseWorkPart1\\Explosions.cs",
+              "RelativeToolTip": "CourseWorkPart1\\Explosions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T04:14:24.786Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CommandManager.cs",
+              "DocumentMoniker": "C:\\Users\\15107\\CSGameArchitectures\\SpaceShipShooter\\CourseWorkPart1\\CourseWorkPart1\\CommandManager.cs",
+              "RelativeDocumentMoniker": "CourseWorkPart1\\CommandManager.cs",
+              "ToolTip": "C:\\Users\\15107\\CSGameArchitectures\\SpaceShipShooter\\CourseWorkPart1\\CourseWorkPart1\\CommandManager.cs",
+              "RelativeToolTip": "CourseWorkPart1\\CommandManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T05:28:52.291Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "InputListener.cs",
+              "DocumentMoniker": "C:\\Users\\15107\\CSGameArchitectures\\SpaceShipShooter\\CourseWorkPart1\\CourseWorkPart1\\InputListener.cs",
+              "RelativeDocumentMoniker": "CourseWorkPart1\\InputListener.cs",
+              "ToolTip": "C:\\Users\\15107\\CSGameArchitectures\\SpaceShipShooter\\CourseWorkPart1\\CourseWorkPart1\\InputListener.cs",
+              "RelativeToolTip": "CourseWorkPart1\\InputListener.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T07:32:45.773Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Enemy.cs",
+              "DocumentMoniker": "C:\\Users\\15107\\CSGameArchitectures\\SpaceShipShooter\\CourseWorkPart1\\CourseWorkPart1\\Enemy.cs",
+              "RelativeDocumentMoniker": "CourseWorkPart1\\Enemy.cs",
+              "ToolTip": "C:\\Users\\15107\\CSGameArchitectures\\SpaceShipShooter\\CourseWorkPart1\\CourseWorkPart1\\Enemy.cs",
+              "RelativeToolTip": "CourseWorkPart1\\Enemy.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAgwEIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T00:01:03.73Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "LaserShooter.cs",
+              "DocumentMoniker": "C:\\Users\\15107\\CSGameArchitectures\\SpaceShipShooter\\CourseWorkPart1\\CourseWorkPart1\\LaserShooter.cs",
+              "RelativeDocumentMoniker": "CourseWorkPart1\\LaserShooter.cs",
+              "ToolTip": "C:\\Users\\15107\\CSGameArchitectures\\SpaceShipShooter\\CourseWorkPart1\\CourseWorkPart1\\LaserShooter.cs",
+              "RelativeToolTip": "CourseWorkPart1\\LaserShooter.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwAoAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T01:38:30.035Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Animation.cs",
+              "DocumentMoniker": "C:\\Users\\15107\\CSGameArchitectures\\SpaceShipShooter\\CourseWorkPart1\\CourseWorkPart1\\Animation.cs",
+              "RelativeDocumentMoniker": "CourseWorkPart1\\Animation.cs",
+              "ToolTip": "C:\\Users\\15107\\CSGameArchitectures\\SpaceShipShooter\\CourseWorkPart1\\CourseWorkPart1\\Animation.cs",
+              "RelativeToolTip": "CourseWorkPart1\\Animation.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAAwBMAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-09T00:35:09.698Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "BackGround.cs",
+              "DocumentMoniker": "C:\\Users\\15107\\CSGameArchitectures\\SpaceShipShooter\\CourseWorkPart1\\CourseWorkPart1\\BackGround.cs",
+              "RelativeDocumentMoniker": "CourseWorkPart1\\BackGround.cs",
+              "ToolTip": "C:\\Users\\15107\\CSGameArchitectures\\SpaceShipShooter\\CourseWorkPart1\\CourseWorkPart1\\BackGround.cs",
+              "RelativeToolTip": "CourseWorkPart1\\BackGround.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-09T00:37:22.488Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ButtonState.cs",
+              "DocumentMoniker": "C:\\Users\\15107\\CSGameArchitectures\\SpaceShipShooter\\CourseWorkPart1\\CourseWorkPart1\\ButtonState.cs",
+              "RelativeDocumentMoniker": "CourseWorkPart1\\ButtonState.cs",
+              "ToolTip": "C:\\Users\\15107\\CSGameArchitectures\\SpaceShipShooter\\CourseWorkPart1\\CourseWorkPart1\\ButtonState.cs",
+              "RelativeToolTip": "CourseWorkPart1\\ButtonState.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-09T00:37:30.213Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "KeyboardEventArgs.cs",
+              "DocumentMoniker": "C:\\Users\\15107\\CSGameArchitectures\\SpaceShipShooter\\CourseWorkPart1\\CourseWorkPart1\\KeyboardEventArgs.cs",
+              "RelativeDocumentMoniker": "CourseWorkPart1\\KeyboardEventArgs.cs",
+              "ToolTip": "C:\\Users\\15107\\CSGameArchitectures\\SpaceShipShooter\\CourseWorkPart1\\CourseWorkPart1\\KeyboardEventArgs.cs",
+              "RelativeToolTip": "CourseWorkPart1\\KeyboardEventArgs.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-09T00:38:05.774Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "PBackground.cs",
+              "DocumentMoniker": "C:\\Users\\15107\\CSGameArchitectures\\SpaceShipShooter\\CourseWorkPart1\\CourseWorkPart1\\PBackground.cs",
+              "RelativeDocumentMoniker": "CourseWorkPart1\\PBackground.cs",
+              "ToolTip": "C:\\Users\\15107\\CSGameArchitectures\\SpaceShipShooter\\CourseWorkPart1\\CourseWorkPart1\\PBackground.cs",
+              "RelativeToolTip": "CourseWorkPart1\\PBackground.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-09T00:38:08.152Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

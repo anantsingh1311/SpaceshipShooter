@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Profile>Reach</Profile>
+  <Platform>DesktopGL</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/15107/CSGameArchitectures/SpaceShipShooter/CourseWorkPart1/CourseWorkPart1/Content/Background/bg/background_1.png</File>
+    <File>C:/Users/15107/CSGameArchitectures/SpaceShipShooter/CourseWorkPart1/CourseWorkPart1/Content/Background/bg/background_2.png</File>
+    <File>C:/Users/15107/CSGameArchitectures/SpaceShipShooter/CourseWorkPart1/CourseWorkPart1/Content/Background/bg/background_3.png</File>
+    <File>C:/Users/15107/CSGameArchitectures/SpaceShipShooter/CourseWorkPart1/CourseWorkPart1/Content/Background/bg/background_4.png</File>
+    <File>C:/Users/15107/CSGameArchitectures/SpaceShipShooter/CourseWorkPart1/CourseWorkPart1/Content/Background/bg/background.png</File>
+    <File>C:/Users/15107/CSGameArchitectures/SpaceShipShooter/CourseWorkPart1/CourseWorkPart1/Content/Collectible/gem1.png</File>
+    <File>C:/Users/15107/CSGameArchitectures/SpaceShipShooter/CourseWorkPart1/CourseWorkPart1/Content/Collectible/gem2.png</File>
+    <File>C:/Users/15107/CSGameArchitectures/SpaceShipShooter/CourseWorkPart1/CourseWorkPart1/Content/Collectible/gem3.png</File>
+    <File>C:/Users/15107/CSGameArchitectures/SpaceShipShooter/CourseWorkPart1/CourseWorkPart1/Content/Enemy/axe.png</File>
+    <File>C:/Users/15107/CSGameArchitectures/SpaceShipShooter/CourseWorkPart1/CourseWorkPart1/Content/Enemy/mineAnimation.png</File>
+    <File>C:/Users/15107/CSGameArchitectures/SpaceShipShooter/CourseWorkPart1/CourseWorkPart1/Content/Explosion/explosion.png</File>
+    <File>C:/Users/15107/CSGameArchitectures/SpaceShipShooter/CourseWorkPart1/CourseWorkPart1/Content/Explosion/explosion1.png</File>
+    <File>C:/Users/15107/CSGameArchitectures/SpaceShipShooter/CourseWorkPart1/CourseWorkPart1/Content/Explosion/explosion2.png</File>
+    <File>C:/Users/15107/CSGameArchitectures/SpaceShipShooter/CourseWorkPart1/CourseWorkPart1/Content/Fonts/gameFont.spritefont</File>
+    <File>C:/Users/15107/CSGameArchitectures/SpaceShipShooter/CourseWorkPart1/CourseWorkPart1/Content/Hero/shipAnimation2.png</File>
+    <File>C:/Users/15107/CSGameArchitectures/SpaceShipShooter/CourseWorkPart1/CourseWorkPart1/Content/Shooter/cropped_laser.png</File>
+    <File>C:/Users/15107/CSGameArchitectures/SpaceShipShooter/CourseWorkPart1/CourseWorkPart1/Content/Shooter/laser.png</File>
+    <File>C:/Users/15107/CSGameArchitectures/SpaceShipShooter/CourseWorkPart1/CourseWorkPart1/Content/Shooter/laser1.png</File>
+    <File>C:/Users/15107/CSGameArchitectures/SpaceShipShooter/CourseWorkPart1/CourseWorkPart1/Content/Sounds/Adrift.mp3</File>
+    <File>C:/Users/15107/CSGameArchitectures/SpaceShipShooter/CourseWorkPart1/CourseWorkPart1/Content/Sounds/explosion.wav</File>
+    <File>C:/Users/15107/CSGameArchitectures/SpaceShipShooter/CourseWorkPart1/CourseWorkPart1/Content/Sounds/laser.wav</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>
